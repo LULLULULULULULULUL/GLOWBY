@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color:white;
+    color:black;
+    font-family:intro;
+}
+header img{
+    height:200px;
+    width:280px;
+}
+header p{
+    font-size:40px;
+}
+main{
+    font-family:comfortaa;
+    font-size:30px;
+}
+p{
+    text-align:center;
+}
+main img{
+    width:300px;
+    border: solid brown 3px;
+}
+footer{
+    text-align:center;
+    font-family:comfortaa;
+    background-color:white;
+}
